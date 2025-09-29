@@ -1,6 +1,5 @@
-# Bale Alert Action for Splunk 📢
+# <img src="/static/appIcon.png" width="30"/> Bale Alert Action for Splunk 📢
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/metafinity/bale_message)  ![Python 3](https://img.shields.io/badge/Python-3-blue)  
-<img src="images/my_image.png" alt="لوگو پروژه" width="200"/>
 
 ## 📌 Overview  
 This is a **Splunk Modular Alert** for sending messages to **Bale Messenger** using the Bale API.  
